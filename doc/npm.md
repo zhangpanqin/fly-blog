@@ -474,4 +474,4 @@ npm publish --access=public
 
 
 
-![](https://user-gold-cdn.xitu.io/2020/1/14/16fa0188e29b731e?w=1816&amp;h=624&amp;f=png&amp;s=180960)
+![](https://user-gold-cdn.xitu.io/2020/1/14/16fa0188e29b731e)
